@@ -6,14 +6,13 @@
 #    By: nstabel <nstabel@student.codam.nl>           +#+                      #
 #                                                    +#+                       #
 #    Created: 2019/10/20 23:28:11 by nstabel        #+#    #+#                 #
-#    Updated: 2019/10/22 23:38:52 by nstabel       ########   odam.nl          #
+#    Updated: 2019/10/22 23:44:45 by nstabel       ########   odam.nl          #
 #                                                                              #
 # **************************************************************************** #
 
 import validity
 import build
 import scramble
-import solve
 
 input = validity.check()
 cube = build.Cube()
